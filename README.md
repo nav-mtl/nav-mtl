@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/cyberwithnav" target="blank"><img src="https://img.shields.io/twitter/follow/cyberwithnav?logo=twitter&style=for-the-badge" alt="cyberwithnav" /></a> </p>
 
-- 🔭 I’m currently working on [Netskope](https://www.netskope.com)
+- 🔭 I’m currently working on [Netskope](https://www.netskope.com) and [Qostodian Prime](https://qohash.com)
 
 - 🌱 I’m currently learning **Devsecops, Cloud Architect, Cybersecurity and Automation**
-
-- 🔭 I’m currently working on [Qostodian Prime](https://qohash.com)
 
 - 📝 I regularly write articles on [https://navsblog.com](https://navsblog.com)
 
